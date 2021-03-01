@@ -60,5 +60,7 @@ class Song
 
 end
 
+puts Song.table_name
+p Song.column_names
 
 
